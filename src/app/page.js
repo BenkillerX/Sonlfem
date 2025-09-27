@@ -1,6 +1,6 @@
-import HotSlide from "@/Components/HotSlide";
-import Rename from "@/Components/Rename";
-import Shop from "@/Components/Shop";
+import HotSlide from "@/components/HotSlide";
+import Rename from "@/components/Rename";
+import Shop from "@/components/Shop";
 import { Contact, Link } from "lucide-react";
 import Image from "next/image";
 
